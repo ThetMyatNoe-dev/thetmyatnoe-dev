@@ -11,7 +11,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FImage&psig=AOvVaw0WZHyI8itIQZJ-euEIGS-f&ust=1708877840505000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCShZewxIQDFQAAAAAdAAAAABAI" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **highly interactive and scalable Bank Rating System at DBS Bank, Singapore.**
+- 🔭 I’m currently working on **highly interactive and scalable Bank Rating System.**
 
 - 🌱 Learing **Software Architecture Design and Dynamic Programming.**
 
