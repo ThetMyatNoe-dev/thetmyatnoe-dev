@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Thet Myat Noe</h1>
-A passionate self-taught software developer from Singapore.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+A passionate self-taught software developer from Singapore.<br/>
+My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="300" height="300" />
